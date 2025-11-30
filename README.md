@@ -48,7 +48,7 @@ BeginView は、指定したフォルダ内の画像を自動的にスライド�
 
 GitHub Releases から最新版の `BeginView.exe` をダウンロードしてください。
 
-👉 **[GitHub Releases](https://github.com/your-username/beginview/releases)**
+👉 **[GitHub Releases](https://github.com/tenserastudio/beginview/releases)**
 
 ### インストール方法
 
@@ -85,7 +85,7 @@ GitHub Releases から最新版の `BeginView.exe` をダウンロードして�
 
 不具合を発見した場合や、機能要望がある場合は、GitHub の Issues から報告してください。
 
-👉 **[GitHub Issues](https://github.com/your-username/beginview/issues)**
+👉 **[GitHub Issues](https://github.com/tenserastudio/beginview/issues)**
 
 ### 免責事項
 
@@ -141,7 +141,7 @@ It's a portable application that requires no installation, designed to be lightw
 
 Download the latest `BeginView.exe` from GitHub Releases.
 
-👉 **[GitHub Releases](https://github.com/your-username/beginview/releases)**
+👉 **[GitHub Releases](https://github.com/tenserastudio/beginview/releases)**
 
 ### Installation
 
@@ -178,7 +178,7 @@ Simply place the downloaded `BeginView.exe` in any folder and double-click to la
 
 If you find a bug or have a feature request, please report it via GitHub Issues.
 
-👉 **[GitHub Issues](https://github.com/your-username/beginview/issues)**
+👉 **[GitHub Issues](https://github.com/tenserastudio/beginview/issues)**
 
 ### Disclaimer
 
