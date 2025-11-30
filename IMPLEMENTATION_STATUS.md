@@ -4,6 +4,8 @@
 **バージョン**: v0.3  
 **プロジェクト**: BeginView - シンプルな画像スライドショービューア
 
+[▶ Download BeginView for Windows (latest)](https://github.com/tenserastudio/beginview/releases/tag/v0.3)
+
 ---
 
 ## 📋 目次
